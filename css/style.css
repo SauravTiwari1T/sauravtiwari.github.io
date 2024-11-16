@@ -8473,6 +8473,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
           width: 60%;
           position: relative;
+          background: none;
           z-index: -1; }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
             position: absolute;
